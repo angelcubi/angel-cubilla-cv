@@ -17,6 +17,7 @@ body {
 header {
     color: white;
     text-align: center;
+    width: 100%;
 }
 
 h1 {
@@ -58,6 +59,7 @@ main{
     border: 5px solid;
     padding: 3rem;
     margin-top: 0rem;
+    width: 100%;
 }
 
 .datos {
@@ -88,7 +90,6 @@ main{
     line-height: 300%;
     margin-bottom: 0%;
     text-align: left;
-    margin-left: 20rem;
     padding-top: 1rem;
     text-align: center;
     display: block;
